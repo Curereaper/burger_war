@@ -5,7 +5,7 @@
 #Project Name	: burger_war
 #File Name		: run.py
 #
-#© 2021 Curereaper. All rights reserved.
+#© 2021 Feb Curereaper. All rights reserved.
 #===================================================================
 
 import rospy
